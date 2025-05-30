@@ -1,2 +1,2 @@
-let myVAr = "javascrip is amazing"
+let myVAr = "javascript is amazing"
 console.log(myVAr)
