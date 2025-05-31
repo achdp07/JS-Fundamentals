@@ -1,8 +1,8 @@
-const args = process.argv.slice(2);
+let myVAr = 2;
 
-if (args.length === 0) {
+if (myVAr = 0) {
   console.log("No argument");
-} else if (args.length === 1) {
+} else if (myVAr = 1) {
   console.log("Argument found");
 } else {
   console.log("Arguments found");
