@@ -1,4 +1,4 @@
-let myVAr = 0;
+const myVAr = 0;
 
 if (myVAr == 0) {
   console.log("No argument");
